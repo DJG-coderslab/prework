@@ -1,3 +1,6 @@
+""" Zadanie 3 – Dzielenie modulo """
+
+
 l1 = 17
 l2 = 7
 

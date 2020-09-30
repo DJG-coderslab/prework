@@ -1,3 +1,6 @@
+""" Zadanie 5 – Porównywanie zmiennych """
+
+
 no_1 = 17
 no_2 = 7
 

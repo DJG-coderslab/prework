@@ -1,3 +1,6 @@
+""" Zadanie 2 – Łączenie listy """
+
+
 string = " "
 letters = ['a', 'b', 'c', 'd', 'e']
 

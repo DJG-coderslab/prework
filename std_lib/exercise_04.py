@@ -1,3 +1,6 @@
+""" Zadanie 4 – inkrementacja i dekrementacja """
+
+
 counter = 145
 
 counter += 1

@@ -1,3 +1,6 @@
+""" Zadanie 6 – Różnica wieku """
+
+
 father = 1974
 child = 2007
 

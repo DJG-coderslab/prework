@@ -1,3 +1,5 @@
+""" Zadanie 1 – Pobieranie danych od użytkownika. """
+
 name = input("Podaj imię: ")
 sure_name = input("Podaj nazwisko: ")
 
