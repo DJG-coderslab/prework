@@ -7,7 +7,6 @@ a = float(a)
 b = float(b)
 
 if a > b:
-    print (f"a ({a}) jest większe!")
+    print(f"a ({a}) jest większe!")
 else:
     print(f"b ({b}) jest większe")
-

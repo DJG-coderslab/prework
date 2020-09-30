@@ -10,7 +10,7 @@ print("\nPętla while:")
 i = 0
 suma = 0
 
-while i < number+1:
+while i < number + 1:
     suma += i
     i += 1
 
@@ -19,4 +19,4 @@ print(f"Suma liczb od 0 do {number} to: {suma}")
 print("\nRange i sum:")
 
 print(f"Suma liczb od 0 do {number} używając sum i range: "
-      f"{sum(range(number+1))}")
+      f"{sum(range(number + 1))}")

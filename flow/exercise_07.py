@@ -1,6 +1,5 @@
 """ Zadanie 7 – Średnia """
 
-
 n = 0
 numbers = []
 numbers_as_string = []
@@ -11,7 +10,7 @@ while n < 1:
     n = int(n)
 
 for i in range(n):
-    tmp = input(f"Podaj {i+1} liczbę: ")
+    tmp = input(f"Podaj {i + 1} liczbę: ")
     numbers_as_string.append(tmp)
     numbers.append(int(tmp))
 

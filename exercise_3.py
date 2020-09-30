@@ -28,4 +28,3 @@ print(f"""
 add1 typu {type(add1)} i wartości {add1}
 add2 typu {type(add2)} i wartości {add2}
 sum_value typu {(type(sum_value))} i wartości {sum_value}""")
-
